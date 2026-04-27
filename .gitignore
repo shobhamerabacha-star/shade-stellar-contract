@@ -6,7 +6,6 @@ Cargo.lock
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -33,3 +32,5 @@ test_snapshots/
 .stellar/
 
 issue_description.md
+config.bat
+node_modules
